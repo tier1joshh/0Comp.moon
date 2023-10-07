@@ -1,5 +1,4 @@
  getgenv().Riot = {
-
         Main = {
             ['Enabled'] = true,
             ['Keybind'] = Enum.KeyCode.Q,
@@ -1032,4 +1031,4 @@
      else 
         setfpscap(240)
      end
-end)
+end
